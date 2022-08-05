@@ -5,7 +5,8 @@ This is a Proof of Concept R-Shiny dashboard to display electoral results in a S
 This project shows the electoral results in 2020 and 2016 presidential elections by precinct in California to allow campaign managers identify target precincts to mobilize support.
 
 ## Data Sources
-Precinct-level electoral results and shapefiles from [Voting and Election Science Team (VEST)](https://dataverse.harvard.edu/dataverse/electionscience)/
+Precinct-level electoral results and shapefiles from [Voting and Election Science Team (VEST)](https://dataverse.harvard.edu/dataverse/electionscience)
+Data source is too big to be hosted on github, consult me if you want the data files for replication purposes.
 
 ## How to use
 
